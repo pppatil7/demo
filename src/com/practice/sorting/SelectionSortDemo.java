@@ -7,6 +7,7 @@ public class SelectionSortDemo {
 	public static void main(String[] args) {
 
 		// selection sort
+		//time complexity O(n^2)
 
 		int[] arr = { 7, 8, 3, 1, 2 };
 
